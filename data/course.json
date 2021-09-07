@@ -1,0 +1,23 @@
+{
+  "level": "",
+  "instructors": {
+    "content": [],
+    "website": "careys-test-course"
+  },
+  "course_image": {
+    "content": "2f94d70e-4dac-4161-930c-ff78e8646e1d",
+    "website": "careys-test-course-2"
+  },
+  "course_title": "Carey's Test Course ",
+  "course_description": "Test description",
+  "department_numbers": [
+    "1"
+  ],
+  "course_feature_tags": [],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "careys-test-course"
+  }
+}
