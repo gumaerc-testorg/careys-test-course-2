@@ -8,3 +8,5 @@ uid: 56784913-c925-463a-bfdb-7dd73c50a7a6
 Test content
 
 {{< resource_link 9d99461d-02f3-4822-af8b-14c93234dddb >}}
+
+{{< resource 9d99461d-02f3-4822-af8b-14c93234dddb >}}
